@@ -16,7 +16,7 @@ It can also power off your computer after render’s end.
 Usage:
 Place the script in your *.blend* file directory and execute it.
 
-Optionnal: If you prefer command line, you can add it to your path (allow you to launch from CLI from the *.blend* file directory without moving the script file)
+Optional: If you prefer command line, you can add it to your path (allow you to launch from CLI from the *.blend* file directory without moving the script file)
 
 screenshot:
 ![script CLI screenshot](http://www.samuelbernou.fr/imgs/git/script_result_2.PNG)
